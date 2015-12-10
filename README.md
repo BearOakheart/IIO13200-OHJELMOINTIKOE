@@ -18,4 +18,4 @@ Tehtävä 2ASP
 Tehtävä 3b
 ********************
 
-13 px, validoinnin ja virhekäsittelyn olisi voinut tehdä paremmin
+13 p, validoinnin ja virhekäsittelyn olisi voinut tehdä paremmin
